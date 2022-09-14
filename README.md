@@ -1,1 +1,1 @@
-# promocode-scraper
+# stock-scraper
