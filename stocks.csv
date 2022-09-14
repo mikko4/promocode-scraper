@@ -1,31 +1,31 @@
 Company,Price,Change
-b'3M Company (MMM)',b'120.47',b'(-3.04%)'
-b'American Express Company (AXP)',b'155.35',b'(-4.37%)'
-b'Amgen Inc (AMGN)',b'226.86',b'(-4.53%)'
-b'Apple Inc (AAPL)',b'153.84',b'(-5.87%)'
-b'Boeing Co (BA)',b'147.31',b'(-7.19%)'
-b'Caterpillar Inc (CAT)',b'184.31',b'(-4.20%)'
-b'Chevron Corp (CVX)',b'159.41',b'(-1.90%)'
-b'Cisco Systems Inc (CSCO)',b'44.11',b'(-4.94%)'
-b'Coca-Cola Co (KO)',b'60.47',b'(-3.25%)'
-b'Dow Inc (DOW)',b'47.87',b'(-6.01%)'
-b'Goldman Sachs Group Inc (GS)',b'328.39',b'(-4.14%)'
-b'Home Depot Inc (HD)',b'277.93',b'(-6.59%)'
-b'Honeywell International Inc (HON)',b'184.98',b'(-3.67%)'
-b'International Business Machines (IBM)',b'127.25',b'(-2.61%)'
-b'Intel Corporation (INTC)',b'29.29',b'(-7.19%)'
-b'Johnson & Johnson (JNJ)',b'161.33',b'(-2.60%)'
-b'JPMorgan Chase & Co (JPM)',b'116.39',b'(-3.47%)'
-b'McDonald\xe2\x80\x99s Corporation (MCD)',b'254.33',b'(-2.32%)'
-b'Merck & Company Inc (MRK)',b'86.28',b'(-2.13%)'
-b'Microsoft Corporation (MSFT)',b'251.99',b'(-5.50%)'
-b'Nike Inc (NKE)',b'105.72',b'(-5.93%)'
-b'Procter & Gamble Company (PG)',b'138.18',b'(-2.07%)'
-b'Salesforce Inc (CRM)',b'158.10',b'(-4.55%)'
-b'The Travelers Companies Inc (TRV)',b'162.22',b'(-1.88%)'
-b'UnitedHealth Group Incorporated (UNH)',b'513.96',b'(-3.25%)'
-b'Verizon Communications Inc (VZ)',b'41.75',b'(-2.36%)'
-b'Visa Inc Class A (V)',b'199.67',b'(-3.37%)'
-b'Walgreens Boots Alliance Inc (WBA)',b'34.74',b'(-5.16%)'
-b'Walmart Inc (WMT)',b'135.22',b'(-2.06%)'
-b'Walt Disney Company (DIS)',b'111.76',b'(-3.98%)'
+3M Company (MMM),120.47,(-3.04%)
+American Express Company (AXP),155.35,(-4.37%)
+Amgen Inc (AMGN),226.86,(-4.53%)
+Apple Inc (AAPL),153.84,(-5.87%)
+Boeing Co (BA),147.31,(-7.19%)
+Caterpillar Inc (CAT),184.31,(-4.20%)
+Chevron Corp (CVX),159.41,(-1.90%)
+Cisco Systems Inc (CSCO),44.11,(-4.94%)
+Coca-Cola Co (KO),60.47,(-3.25%)
+Dow Inc (DOW),47.87,(-6.01%)
+Goldman Sachs Group Inc (GS),328.39,(-4.14%)
+Home Depot Inc (HD),277.93,(-6.59%)
+Honeywell International Inc (HON),184.98,(-3.67%)
+International Business Machines (IBM),127.25,(-2.61%)
+Intel Corporation (INTC),29.29,(-7.19%)
+Johnson & Johnson (JNJ),161.33,(-2.60%)
+JPMorgan Chase & Co (JPM),116.39,(-3.47%)
+McDonald’s Corporation (MCD),254.33,(-2.32%)
+Merck & Company Inc (MRK),86.28,(-2.13%)
+Microsoft Corporation (MSFT),251.99,(-5.50%)
+Nike Inc (NKE),105.72,(-5.93%)
+Procter & Gamble Company (PG),138.18,(-2.07%)
+Salesforce Inc (CRM),158.10,(-4.55%)
+The Travelers Companies Inc (TRV),162.22,(-1.88%)
+UnitedHealth Group Incorporated (UNH),513.96,(-3.25%)
+Verizon Communications Inc (VZ),41.75,(-2.36%)
+Visa Inc Class A (V),199.67,(-3.37%)
+Walgreens Boots Alliance Inc (WBA),34.74,(-5.16%)
+Walmart Inc (WMT),135.22,(-2.06%)
+Walt Disney Company (DIS),111.76,(-3.98%)

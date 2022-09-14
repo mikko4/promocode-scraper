@@ -58,6 +58,6 @@ for stock in stocks:
     print(company, "-", price, "-", change)
 
     # write the data to the csv
-    writer.writerow([company.encode("utf-8"), price.encode("utf-8"), change.encode("utf-8")])
+    writer.writerow([company, price, change])
 
 file.close()
